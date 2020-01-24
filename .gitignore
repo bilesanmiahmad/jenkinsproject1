@@ -1,0 +1,8 @@
+.sonarlint/
+.vscode/
+venv/
+.env
+accounts/migrations
+db.sqlite3
+projectone/__pycache__/
+projectone/.env
