@@ -6,3 +6,5 @@ accounts/migrations
 db.sqlite3
 projectone/__pycache__/
 projectone/.env
+accounts/__pycache__/
+static/
